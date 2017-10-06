@@ -94,6 +94,7 @@ Plugin 'bling/vim-airline'
 Plugin 'endwise.vim'
 Plugin 'kien/ctrlp.vim'
 Plugin 'rakr/vim-one'
+Plugin 'altercation/vim-colors-solarized'
 
 call vundle#end()
 
